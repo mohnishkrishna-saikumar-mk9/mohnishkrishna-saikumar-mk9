@@ -12,5 +12,5 @@ Hi 👋, I'm Mohnish Krishna Sai Kumar<br>Computer Science Student | AI/ML & Web
 ![](https://nirzak-streak-stats.vercel.app/?user=mohnishkrishna-saikumar-mk9&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mohnishkrishna-saikumar-mk9&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-#✨ Open to new opportunities that allow me to explore emerging technologies and gain practical experience.
+# ✨ Open to new opportunities that allow me to explore emerging technologies and gain practical experience.
 Looking forward to building impactful projects together 🚀
