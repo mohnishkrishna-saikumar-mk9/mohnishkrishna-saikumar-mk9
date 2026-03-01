@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋, I'm Mohnish Krishna Sai Kumar<br>Computer Science Student | AI/ML & Web Development Enthusiast<br><br>👨‍💻 About Me<br>    🎓 B.Tech CSE student at Amrita Vishwa Vidyapeetham<br>    💡 Interested in core engineering, system design, and software development<br>    🚀 Passionate about problem solving and strengthening programming fundamentals<br>    🌱 Continuously learning and exploring new technologies<br>    📫 Reach me at: mohnishkrishna1225@gmail.com
+Hi 👋, I'm Mohnish Krishna Sai Kumar<br>Computer Science Student | AI/ML & Web Development Enthusiast<br><br>👨‍💻 About Me<br>    🎓 B.Tech CSE student at Amrita Vishwa Vidyapeetham<br>    💡 Interested in core engineering, system design, and software development<br>    🚀 Passionate about problem solving and strengthening programming fundamentals<br>    🌱 Continuously learning and exploring new technologies<br>    📫 Reach me out by: mohnishkrishna1225@gmail.com
 
 
 ## 🌐 Socials:
